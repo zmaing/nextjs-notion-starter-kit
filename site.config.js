@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '无用百科大全',
-  domain: 'https://zmaing.notion.site/Personal-Home-229c2ccf66614ca997c47c72febdcc89',
+  domain: 'https://zmaing.notion.site/229c2ccf66614ca997c47c72febdcc89',
   author: 'zmaing',
 
   // open graph metadata (optional)
